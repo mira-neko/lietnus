@@ -146,6 +146,10 @@ _ToDo: сложные предложения_
 
 # Примеры текста
 
-Nim faof se %nim%.
+Nim faof se %nim%
 
 > Моё имя — %имя%.
+
+Fa amane ukot
+
+> Я люблю тебя.
