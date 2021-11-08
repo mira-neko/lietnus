@@ -20,13 +20,13 @@
 
 # Л
 
-Лиитна — lietn
+Лѣтна — lietn
 
-Лиитнийская — lietnus
+Лѣтнийская — lietnus
 
-Лиитнийский — lietnus
+Лѣтнийский — lietnus
 
-Лиитнийское — lietnus
+Лѣтнийское — lietnus
 
 Любить — amanaen
 
