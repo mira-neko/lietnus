@@ -153,3 +153,11 @@ Nim faof se %nim%
 Fa amane ukot
 
 > Я люблю тебя.
+
+Fa iŝä ki at nüfol
+
+> Я прибыл(а) в деревню (город).
+
+Fa oŝaen danu ki nüfol "ogurcovo"
+
+> Я собираюст отправиться в деревню "Огурцово".
